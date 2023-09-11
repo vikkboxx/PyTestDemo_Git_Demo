@@ -60,3 +60,6 @@ class Test_Pytest:
             print("Registration is completed")
         except:
             print("Registration is failed")
+
+
+# Added after commiting in Git
